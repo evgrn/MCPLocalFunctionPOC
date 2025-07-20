@@ -1,3 +1,9 @@
-﻿/bin/
-/obj/
-/.idea/
+﻿**/bin/
+**/obj/
+.idea/
+**/.idea/
+**/appsettings.Development.json
+.idea/.idea.*
+*.user
+*.suo
+*.vs/
